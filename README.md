@@ -1,5 +1,5 @@
 # Eae gente 👋
-
+![image](https://user-images.githubusercontent.com/110929031/184942284-0515e150-863d-4130-8018-95bd32d2e748.png)
 <!--
 **ArturZEN1/ArturZEN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡
